@@ -1,0 +1,24 @@
+{
+  "name": "templatejsbot",
+  "version": "1.0.0",
+  "description": "template for learning bot in node",
+ "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricVernie/templatejsbot.git"
+  },
+  "keywords": [
+        "botbuilder",
+        "bots",
+        "chatbots"
+  ],
+  "author": "Eric Vernié",
+
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.5.1",
+    "restify": "^4.3.0"
+  }
+}
